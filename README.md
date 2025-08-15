@@ -508,4 +508,4 @@ pwn:
 }
 ```
 
-![[root.mp4]]
+[![[root.mp4]]](https://github.com/user-attachments/assets/1d3425c6-6499-4f71-aa02-7421961a87de)
